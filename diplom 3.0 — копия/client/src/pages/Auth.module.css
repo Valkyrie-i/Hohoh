@@ -1,0 +1,20 @@
+input{
+    width: 400px;
+    border: 0px;
+    border-bottom: 2px solid #004242 ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: none;
+}
+h2{
+    font-family: sans-serif;
+    color: #004242;
+}
+form{
+    margin-top:100px ;
+}
+.link{
+    margin-top: 20px ;
+}
+
+
